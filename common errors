@@ -1,0 +1,20 @@
+# indentation error
+''' the indentation error is the most common error if caused when 
+you indent the code in a wrong way
+as their is no curly braces in python like that of c++
+their must be a proper indentation so that the interpereter can 
+understand it
+'''
+
+#Python Standard Library Module Names
+'''Python is rich with library modules which comes out of the box
+. A common mistake is using the same name for a module and a module in the 
+Python standard library. This will lead to importing another library which will 
+then try to import the module in the Python standard library and since there 
+will be a module with the same name, the other package will import the defined module,
+in place of the Python standard library module.'''
+
+#type error 
+''' when we define a variable a="15" it stored it as a string so 
+it will not be abel to add by any other integer number so it give type error
+we can use int(a) to change it into int and then follow the requered steps 
