@@ -1,0 +1,18 @@
+#the most commonly used object in programming is for loop and if else condition
+''' syntax of for loop is 
+for variable in range (any number):
+    print ("anything you want to do multiple times")
+while using for loop see is your indentation is correct oterwise you got an error'''
+for x in range (5)
+    print ("your name")
+    
+    
+''' syntax of if else condition
+if (variable</>/== num/variable1):
+    any thing you want
+else:
+     any condition    '''
+ #its not necessary to add else condition
+ #its upto you if your program need it or not
+ 
+ #practice some bigginers level question like printing shapes etc
