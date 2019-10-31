@@ -1,0 +1,9 @@
+# the best part of python is here dictionary
+''' syntax of dictionary with an example
+Dict = {'Name': 'apoorv', 1: [1, 2, 3, 4]} 
+print("\nDictionary with the use of Mixed Keys: ") 
+print(Dict)
+you can accecess to the value alloted in the dic anywhere in prograam
+'''
+#it is frequently used by the programmers specially in machine learning and deep learning
+#so we need honds on this so pracrice dictionary questions from the internet 
