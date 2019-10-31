@@ -1,0 +1,17 @@
+print("we are learning pytholn for todays class")
+print("its a Print(p small) function which is used to display resulsts on the screen")
+# it is used for single line comment
+''' this 
+is used 
+for a multi line comment 
+and if
+we put it 
+into print
+statement 
+it can also be used 
+for multiline print 
+statement'''
+a = import("Import(i small)is used when we required a value")
+# their is no need in python to declare variable like we need to do in c++
+# also we can change the type of variable any time in the program
+# these are the most basic programming skill required for any language try to make some basic programms based on printing 
